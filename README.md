@@ -32,7 +32,7 @@ reach me - https://www.linkedin.com/in/sarth-mirashi-15088619b
 # Understanding problem statement 
 
 This the first step and also the key in leading a successful data science project.
-With through understanding of the problem Statement and also the Data we can move 
+With thorough understanding of the problem Statement and also the Data we can move 
 forward to devising a solution to the problem.\
 Here we solve for the Salesprice of the houses in Ames, Iowa based on various factors
 given in the dataset. All the factors have been described in the Kaggle readme file. These
